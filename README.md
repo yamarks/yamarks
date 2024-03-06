@@ -12,7 +12,7 @@ With a solid foundation in software development and a keen interest in backend t
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=6296CC)
-![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=Sql&logoColor=6296CC)
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![REST API](https://img.shields.io/badge/-RestAPI-090909?style=for-the-badge&logo=api&logoColor=6296CC)
 
 ### Socials:
