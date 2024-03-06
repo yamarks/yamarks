@@ -9,6 +9,11 @@ With a solid foundation in software development and a keen interest in backend t
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=6296CC)
+![Docker](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Docker&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
+![Linux](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Linux&logoColor=6296CC)
+![SQL](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Sql&logoColor=6296CC)
+![REST API](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=api&logoColor=6296CC)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/marks_cc)
