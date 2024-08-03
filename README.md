@@ -15,7 +15,7 @@ With a solid foundation in software development and a keen interest in backend t
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=PostgreSQL&logoColor=#696969)
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/marks_cc)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/naryntsev)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/gleb_konshin)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/markseifredholm)
 
