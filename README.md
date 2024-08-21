@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=pytorch&logoColor=F88C00)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#B22222)
