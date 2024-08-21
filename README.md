@@ -1,11 +1,12 @@
 ## Hello, world, it's Marks!
 
-### As a third-year student at NRNU MEPhI in Moscow, Russia, I am a dedicated backend developer with a strong proficiency in Python, C++, Docker, Linux, Git, PostgreSQL, MySQL, API, and REST API. I am passionate about creating efficient and scalable backend systems that meet the needs of modern applications.
+### Я студент третьего курса НИЯУ МИФИ в Москве. Являюсь разработчиком с уверенным знанием Python, C++, Docker, PyTorch, TensorFlow, Linux, Git, PostgreSQL, MySQL, API и REST API. Я увлечен созданием эффективных и масштабируемых бэкенд-систем и ML-систем которые отвечают потребностям современных приложений.
 
-With a solid foundation in software development and a keen interest in backend technologies, I strive to continuously expand my knowledge and skills in the field. I have experience working with databases, version control systems, and containerization technologies, allowing me to develop robust and reliable solutions for various projects.
+Имея прочную основу в разработке программного обеспечения и проявляя большой интерес к технологиям, я стремлюсь постоянно расширять свои знания и навыки в этой области. У меня есть опыт работы с базами данных, системами контроля версий, машинным обучением и технологиями контейнеризации, что позволяет мне разрабатывать надежные и прочные решения для различных проектов.
 
 ### Languages and Tools:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#B22222)
